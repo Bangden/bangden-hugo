@@ -57,6 +57,11 @@ preserveTaxonomyNames = true
 category = "categories"
 tag = "tags"
 
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
 
 [privacy]
 
