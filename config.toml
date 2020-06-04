@@ -57,6 +57,8 @@ preserveTaxonomyNames = true
 category = "categories"
 tag = "tags"
 
+disqusShortname = "bang_den"
+
 [sitemap]
   changefreq = "monthly"
   filename = "sitemap.xml"
