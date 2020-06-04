@@ -2,8 +2,8 @@
 title: "Test"
 date: 2020-06-04T09:44:12+07:00
 draft: false
-category: Tes
-tag: hugo, test
+category: "Tes"
+tag: "hugo"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ex quam, elementum id purus quis, tristique rutrum ligula. Nam tempus enim felis, sed eleifend sem rhoncus vel. Duis varius gravida eleifend. Fusce vel enim metus. Proin sit amet sagittis massa, eu consequat nisi. In consectetur odio mauris, vitae tempor dui pellentesque sit amet. Donec tempus aliquet efficitur. Maecenas dignissim, odio ac tincidunt tincidunt, elit urna aliquet urna, vel varius leo lacus sit amet ipsum. Duis facilisis tincidunt enim sed rhoncus. Nunc nunc odio, tempus in mollis id, egestas quis quam.
